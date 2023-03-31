@@ -9,5 +9,7 @@ public class test {
         System.out.println("你也好");
         System.out.println("哈哈哈");
         System.out.println("大大大");
+        System.out.println("我是道权");
+
     }
 }
